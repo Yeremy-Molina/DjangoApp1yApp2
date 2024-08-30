@@ -12,3 +12,5 @@ def presentacion_2(request):
     <h2>Soy un subtitulo de la App2</h2>
 """
     return HttpResponse(html)
+
+
